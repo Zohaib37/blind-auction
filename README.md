@@ -6,3 +6,6 @@ This program represents the blind auction. The user is first asked to enter thei
 \
 It then asks if there are other people who want to bid or not. If there are, the screen is cleared so the other person can bid. Once everyone has bid, the program displays
 the highest bid along with the name of the person.
+\
+\
+![auction2](https://user-images.githubusercontent.com/64097953/118187965-232a5d00-b459-11eb-9e09-37c511785f53.png)
