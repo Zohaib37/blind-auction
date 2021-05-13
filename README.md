@@ -1,4 +1,4 @@
-# blind-auction
+# Blind Auction
 A program that represents the blind auction scenario
 # Description
 This program represents the blind auction. The user is first asked to enter their name and their bid.\
